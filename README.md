@@ -1,4 +1,5 @@
 # NECCO-EDIT
+I'm sorry. This software still supports only Japanese.
 
 NECCO EDIT(Alpha) リリースノート
 
@@ -30,9 +31,9 @@ NECCO EDIT(Alpha) リリースノート
 4. 操作方法など
 
   詳細はNECCO EDITユーザーマニュアル
-  http://www.one-o-one.jp/necco-edit/manual/top.html(準備中です)
+  ManualJPN.pdf(準備中です)
   を御覧ください。
-
+  
 
 5. 履歴(新しい順)
   0.1.221 (2023/06/20)
